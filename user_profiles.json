@@ -1,0 +1,18 @@
+{
+    "A001": {
+        "name": "Rytham Porwal",
+        "email": "ggg@gmail.com",
+        "phone": "4685",
+        "seat_position": "3",
+        "ac_temp": "24",
+        "playlist": "pop"
+    },
+    "A002": {
+        "name": "Aditya Sharma",
+        "email": "aaa@gmail.com",
+        "phone": "9199998",
+        "seat_position": "1",
+        "ac_temp": "18",
+        "playlist": "Classical"
+    }
+}

@@ -1,0 +1,36 @@
+# Project Name
+
+## Overview
+
+This project is a Python-based application that leverages various computer vision and machine learning libraries. It includes functionalities for face recognition, emotion detection, real-time tracking, and more, using popular libraries such as OpenCV, Keras, TensorFlow, and mediapipe.
+
+## Python Version
+
+This project requires **Python 3.9.x**.
+
+To check your Python version, run:
+
+```bash
+python --version
+
+## Libraries and Dependencies
+
+This project requires the following libraries:
+
+- **OpenCV**: A library for computer vision tasks.
+- **Numpy**: A package for numerical computing.
+- **TensorFlow**: A deep learning framework.
+- **Keras**: High-level neural networks API.
+- **Keras-Facenet**: A library for FaceNet-based face recognition.
+- **Mediapipe**: A framework for building pipelines to process video, audio, and other data.
+- **Scikit-Learn**: A library for machine learning algorithms and tools.
+- **Pygame**: A set of Python modules designed for writing video games.
+- **Scipy**: A library used for scientific computing.
+- **Pillow**: A Python Imaging Library (PIL) fork for working with images.
+
+## Installation
+
+To install all required dependencies, clone this repository and install the packages using `pip`.
+
+### 1. Clone the repository:
+

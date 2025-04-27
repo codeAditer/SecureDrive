@@ -1,0 +1,10 @@
+opencv-python
+numpy
+keras
+scikit-learn
+pygame
+mediapipe
+scipy
+pillow
+tensorflow
+keras-facenet
